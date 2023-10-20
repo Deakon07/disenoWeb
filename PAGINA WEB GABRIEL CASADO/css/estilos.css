@@ -1,0 +1,11 @@
+body {
+  background-image: url("/img/fondo-suelo-textura-madera-marron.jpg");
+  background-repeat: no-repeat;
+  background-image: fixed;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
